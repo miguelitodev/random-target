@@ -9,3 +9,7 @@ O alvo, a cada 1 segundo ou milissegundo, é plotado em diversas posições na t
 O objetivo do jogo é que o usuário clique no alvo antes que este desapareça. Ao clicar no centro do alvo, surge um pop up com a mensagem "acertou!". Clicando em qualquer outro lugar da tela resulta em erro.
 
 É um jogo simples, no qual utilizaremos o raciocínio lógico e alguns conceitos de elaboração de jogos. Assim, você será capaz de criar suas próprias brincadeiras.
+
+## Referências
+
+- <a href="https://www.alura.com.br/">Alura</a>
